@@ -41,9 +41,9 @@
     </description>
 
     <scm>
-        <connection>scm:svn:http://svn.apache.org/repos/asf/sling/trunk/bundles/extensions/framework-extension-activation</connection>
-        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/sling/trunk/bundles/extensions/framework-extension-activation</developerConnection>
-        <url>http://svn.apache.org/viewvc/sling/trunk/bundles/extensions/framework-extension-activation</url>
+        <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-fragment-activation.git</conncetion>
+        <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-fragment-activation.git</developerConnection>
+        <url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-fragment-activation.git</url>
     </scm>
 
     <properties>
